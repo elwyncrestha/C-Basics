@@ -1,0 +1,10 @@
+For employee1:
+Name:  	a
+Post:  	a
+Salary:	0.000000
+
+For employee2:
+Name:  	b
+Post:  	b
+Salary:	0.000000
+
